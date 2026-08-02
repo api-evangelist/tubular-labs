@@ -1,0 +1,27 @@
+# Tubular Labs
+
+> Tubular Labs is a social video intelligence and measurement company. Its platform indexes cross-platform creator, video, and audience data across YouTube, Instagram, Facebook, Twitch, and other social video platforms, and the Tubular API offers programmatic access to that data for content strategy, creator discovery, competitive tracking, and audience insight.
+
+## APIs
+
+- [Tubular API](https://tubularlabs.com/resources/tubular-api/): Programmatic access to cross-platform creator, video, and audience data for brand-mention monitoring, competitor tracking, creator discovery, and trend/category analysis.
+
+## Docs
+
+- [Tubular API overview](https://tubularlabs.com/resources/tubular-api/): What the API provides and how teams integrate it.
+- [API documentation](https://tubularlabs.com/integrations/#/): Reference documentation (single-page app).
+- [Pricing & plans](https://tubularlabs.com/resources/tubular-labs-pricing-plans/): Tubular plans and pricing.
+- [Blog](https://tubularlabs.com/blog/): Company blog and social video research.
+- [Terms of Service](https://tubularlabs.com/terms/)
+- [Privacy Policy](https://tubularlabs.com/privacy/)
+
+## Company
+
+- [Website](https://tubularlabs.com): Products, solutions, and customer stories.
+- [Request a demo](https://tubularlabs.com/request-demo/): Sales-led onboarding / API access.
+
+## Notes
+
+- No public OpenAPI/Swagger specification was discoverable; API reference is served as a single-page application at /integrations/#/.
+- No /.well-known/ discovery documents (security.txt, openid-configuration, api-catalog, ai-plugin.json) are published.
+- No dedicated developer subdomain (developers./api./docs.tubularlabs.com resolve as unreachable).
