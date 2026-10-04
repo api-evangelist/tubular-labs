@@ -54,9 +54,8 @@ modified: '2026-07-21'
 tags:
 - Company
 - Video
-- Social-Media
+- Social Media
 - Analytics
-- Intelligence
 - Creators
 - Influencer
 - Media
@@ -67,12 +66,12 @@ tags_raw:
 - Video
 - Social Media
 - Analytics
-- Intelligence
 - Creators
 - Influencer
 - Media
 - Audience
 - Measurement
+- Social-Media
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
@@ -112,10 +111,9 @@ apis:
     tracking, creator discovery and filtering, trend and category tracking, and
     delivery into BI tools (Tableau, Domo) or CSV reports.
   humanURL: https://tubularlabs.com/resources/tubular-api/
-  baseURL: https://tubularlabs.com
   tags:
   - Video
-  - Social-Media
+  - Social Media
   - Analytics
   - Creators
   - Audiences
@@ -125,8 +123,11 @@ apis:
   - Analytics
   - Creators
   - Audience
+  - Social-Media
   properties:
   - type: Documentation
     url: https://tubularlabs.com/integrations/#/
   - type: APIReference
     url: https://tubularlabs.com/integrations/#/
+x-tags-removed:
+- Intelligence
